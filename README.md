@@ -1,3 +1,7 @@
+# hacktoberfestES PyMS
+
+Formaciones realizadas durante el [Python #HacktoberfestES 2020](https://hacktoberfest.es.python.org/)
+
 # Guía de instalación
 
 Si quieres ver los notebooks, sigue estos pasos:
